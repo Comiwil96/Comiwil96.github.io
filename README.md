@@ -1,2 +1,8 @@
-# Comiwil96.github.io
-Personal profile and portfolio
+# Aspiring Data Scientist
+
+### Education and Certifications
+
+Masters of Arts
+
+### Projects
+
