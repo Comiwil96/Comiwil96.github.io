@@ -15,7 +15,8 @@ Mathematics for Machine Learning, 2024 -->
 
 
 ### Degrees
-Biomedical Sciences: Molecular Medicine, MA/n
+Biomedical Sciences: Molecular Medicine, MA
+
 Biological Sciences, BS
 
 ### Projects
