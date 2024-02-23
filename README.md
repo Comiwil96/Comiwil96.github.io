@@ -10,6 +10,7 @@
 
 ### Mathematics and Statistics Certifications
 Biostatistics in Public Health, 2024
+Expressway to Data Science: Essential Math
 <!--Advanced Statistics for Data Science, 2024
 Mathematics for Machine Learning, 2024 -->
 
