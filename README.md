@@ -15,8 +15,9 @@ Mathematics for Machine Learning, 2024 -->
 
 
 ### Degrees
-Biomedical Sciences: Molecular Medicine, MA
-Biological Sciences, BS
+Liberty University: Biomedical Sciences - Molecular Medicine, MA
+
+Ohio University: Biological Sciences, BS
 
 ### Projects
 
