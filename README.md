@@ -4,8 +4,8 @@
 
 ### Data Science Certifications
 - IBM Data Science, 2024
-<!--Applied Data Science - University of Michigan, 2024
-- IBM Machine Learning, 2024
+- Applied Data Science - University of Michigan, 2024
+<!--IBM Machine Learning, 2024
 - IBM Advanced Data Science, 2024 -->
 
 ### Mathematics and Statistics Certifications
