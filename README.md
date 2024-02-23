@@ -16,4 +16,5 @@ Liberty University: Biomedical Sciences - Molecular Medicine, MA\
 Ohio University: Biological Sciences, BS
 
 ### Projects
-- <a href=Projects/Machine_Learning_for_Kyphosis_Disease_Classification.py>Machine Learning for Kyphosis Disease Classification<a/>
+Machine Learning for Kyphosis Disease Classification
+  - Logistic regression and random forest tree classification to determine success of surgery based on age, starting position of corrective   spinal surgery and number of vertebrae corrected.
