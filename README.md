@@ -16,4 +16,4 @@ Liberty University: Biomedical Sciences - Molecular Medicine, MA\
 Ohio University: Biological Sciences, BS
 
 ### Projects
-
+- <a>Machine Learning for Kyphosis Disease Classification<a/>
